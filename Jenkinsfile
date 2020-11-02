@@ -11,7 +11,7 @@ node {
         /* This builds the actual image; synonymous to
          * docker build on the command line */
 
-        app = sudo docker.build("anjuraju/TestRepo")
+        app = sudo docker.build("anjuraju/testRepo")
     }
 
     stage('Test image') {
