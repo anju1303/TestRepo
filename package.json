@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/anju1303/JenkinsTest.git"
+    "url": "https://github.com/anju1303/TestRepo.git"
   },
   "keywords": [
     "node",
     "docker",
     "dockerfile"
   ],
-  "author": "miiro@getintodevops.com",
+  "author": "anju@devOps.com",
   "license": "ISC",
   "devDependencies": { "test": ">=0.6.0" }
 }
